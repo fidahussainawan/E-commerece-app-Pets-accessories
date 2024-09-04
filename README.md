@@ -128,4 +128,3 @@ For future enhancements, features like user authentication, accessory reviews, a
 
 ---
 
-Feel free to replace the placeholders with actual images of your app interface. By following this structure, your GitHub README will present your project in a professional and engaging way!
