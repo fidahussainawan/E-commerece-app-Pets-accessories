@@ -1,6 +1,3 @@
-Here's a complete project overview for the GitHub `README.md` file, including placeholders for images to showcase your app's interface professionally.
-
----
 
 # Fida Birds Mania
 
