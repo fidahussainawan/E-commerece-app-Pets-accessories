@@ -91,22 +91,22 @@ Below are some screenshots of the Fida Birds Mania app interface. These images s
 ![Splash Screen](images/1.PNG)
 
 **Home Screen**
-![Home Screen](images/33.png)
+![Home Screen](images/33.PNG)
 
 **Menu List**
-![Menu List](images/8.png)
+![Menu List](images/8.PNG)
 
 **Accessory Detail**
-![Accessory Detail](images/22.png)
+![Accessory Detail](images/22.PNG)
 
 **Cart**
-![Cart](images/4.png)
+![Cart](images/4.PNG)
 
 **Login Screen**
-![Login Screen](images/7.png)
+![Login Screen](images/7.PNG)
 
 **Signup Screen**
-![Signup Screen](images/6.png)
+![Signup Screen](images/6.PNG)
 
 ---
 
