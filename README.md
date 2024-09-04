@@ -88,7 +88,7 @@ The Room Database schema for the app includes:
 Below are some screenshots of the Fida Birds Mania app interface. These images showcase the user-friendly design and functionality of the application.
 
 **Splash Screen**
-![Splash Screen](images/1.png)
+![Splash Screen](images/1.PNG)
 
 **Home Screen**
 ![Home Screen](images/33.png)
